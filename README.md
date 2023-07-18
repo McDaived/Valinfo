@@ -8,8 +8,7 @@
 ## ![](https://img.icons8.com/?size=60&id=A1J30r5KcCb7&format=svg) Features :
 |Their Queue|Current Skin|Current Rank|Rank Rating|Peak Rank|Account Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|![Parties](docs/assets/Party.png)|![Skin](docs/assets/Skin.png)|![Rank](docs/assets/Rank.png)|![Rating](docs/assets/Rating.png)|![Peak](docs/assets/PeakRank.png)|![Level](docs/assets/Level.png)|
- And More    
+|![Parties](docs/assets/Party.png)|![Skin](docs/assets/Skin.png)|![Rank](docs/assets/Rank.png)|![Rating](docs/assets/Rating.png)|![Peak](docs/assets/PeakRank.png)|![Level](docs/assets/Level.png)|    
 
 ## ![](https://img.icons8.com/?size=60&id=y5gZPP6Eb5gS&format=svg) About :
 To know what is that Visit [Valinfo](https://mcdaived.github.io/Valinfo)
