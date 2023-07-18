@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/McDaived/Valinfo">
-        <img src="docs/assets/images/logo.png" alt="logo" width="160" height="160">
+        <img src="docs/assets/images/logo.png" alt="Logo" width="160" height="160">
     </a>
 <h5 align="center">Valinfo</h5>
 
