@@ -1,0 +1,105 @@
+:root {
+
+
+
+  /*------------------------------------------------------------
+  |
+  | 1.3 LAYOUT
+  |
+  ------------------------------------------------------------*/
+  
+  --ui-layout-container: 1.25rem;
+  --ui-layout-grid     : 3.625rem;
+  --ui-layout-gutter   : 1rem;
+
+  /* GAP */
+  
+  --ui-gap-header     : 1rem;
+  --ui-gap-cta        : .75rem;
+  --ui-gap-hero       : 2rem;
+  --ui-gap-customer   : 2rem;
+  --ui-gap-feature    : 2rem;
+  --ui-gap-card       : 1.25rem;
+  --ui-gap-pricing    : 2rem;
+  --ui-gap-testimonial: 3rem;
+
+  /* BORDER RADIUS */
+  
+  --ui-radius-avatar: 5rem;
+  --ui-radius-button: 5rem;
+  --ui-radius-card  : .5rem;
+
+}
+
+
+.ui-layout-grid {
+  align-items: center;
+  justify-content: center;
+}
+
+.ui-layout-flex-start {
+  align-items: flex-start;
+}
+
+.ui-layout-flex { display: flex; }
+
+.ui-layout-flex-wrap { flex-wrap: wrap; }
+
+
+.ui-layout-grid { display: grid; }
+
+
+/*--------------------------------------------------------------
+|
+| 6.7 BOX
+|
+--------------------------------------------------------------*/
+
+.white-box {
+  background-color: white;
+  border-radius: 15px;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+
+
+/*--------------------------------------------------------------
+|
+| 7.3 CUSTOMER
+|
+--------------------------------------------------------------*/
+
+.ui-section-customer__layout {
+  flex-direction: column;
+  row-gap: var(--ui-gap-customer);
+}
+
+.ui-section-customer--logo {
+  height: 1.5rem;
+  width: auto;
+}
+
+.ui-section-customer--logo-str { height: 1.75rem; }
+  
+.ui-section-customer--logo-bhn { height: 1.375rem; }
+
+
+  /*------------------------------------------------------------
+  |
+  | CUSTOMER
+  |
+  ------------------------------------------------------------*/
+
+  .ui-section-customer__layout {
+    column-gap: var(--ui-gap-customer);
+    flex-direction: row;
+  }
+  
+  .ui-section-customer--logo {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
