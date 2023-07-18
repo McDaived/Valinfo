@@ -1,0 +1,1 @@
+@valinfo.exe --config
