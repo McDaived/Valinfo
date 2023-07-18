@@ -49,5 +49,5 @@ jobs:
       - name: Upload Compiled Version
         uses: actions/upload-artifact@v3
         with:
-          name: Valinfo-${{ steps.commit.outputs.short }}
+          name: valinfo-${{ steps.commit.outputs.short }}
           path: build/exe.win-amd64-${{ env.PYTHON_VERSION }}/**
